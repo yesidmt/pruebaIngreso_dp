@@ -1,0 +1,4 @@
+#Sat Oct 21 15:07:21 COT 2023
+base.0=/Users/yesidmendoza/Desktop/flutterApps/dp_prueba_ingreso/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
